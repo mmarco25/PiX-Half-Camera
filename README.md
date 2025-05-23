@@ -14,13 +14,13 @@ All the pictures (about 36 files) will be dypthics (but original portrait single
 Available selections (for now):
 
 * color vs BW
-* date imprinted vs no date (1)
+* date imprinted vs no date ( 1 )
 * effects can be added (supported for now grain/Expired film, Halation) 
 * other can be added
 
 A film strip and or Contact sheet will be generated (to be selected) 
-(1) dates is take straight from the EXIF data
+( 1 ) dates is take straight from the EXIF data
 
-What do you think? Am i crazy or stupid?
+
 
 All pictures are taken with Fujifilm FinePix 40i 

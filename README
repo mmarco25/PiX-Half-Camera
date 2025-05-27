@@ -1,1 +1,26 @@
-test n2
+What if you want to shot Half Frame in digital, but do not want to spend 1000£/$/€ on a new camera, aka Fujifilm HF1 aka Fuji X-Half (need to keep my GAS at large somehow)?
+
+Enter the PiX Half Camera. 
+
+An old digital Vintage camera (Fujifilm FinePix 40i) together with a RaspberryPi (or a linux PC in a first installment for what it worth) aka, an Half frame digital (straight out of the "camera"). No editing in Gimp or similar, just select the options to be activated and you will have a set of jpeg files ready for share or print.
+
+The workflow is basically: 
+* Shooting the FinePix 40i in vertical mode 
+* once the card is full (a 128MB SmartMedia card could store about 70-72 at the max resolution of 1800x2400 Fine) connect the camera (Via USB cable) to the PC (or a small box with a Raspi inside) 
+* activate the scripts (start them on your PC or push button(s) on the Pi) 
+* after the pictures have been downloaded and "Developed" you will find the final pictures on a USB stick.
+
+Notes:
+
+*All the pictures (about 36 files) will be dypthics (but original portrait single pictures will be stored anyway as an option)
+* at the moment the available options are:
+color vs BW
+Date imprinted vs no date
+added grain 
+added halation
+added fade effect
+added light leaks
+
+Other can be added
+
+a film strip and/or contact sheet will be generated (to be selected)

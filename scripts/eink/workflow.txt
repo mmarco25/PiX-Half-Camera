@@ -1,0 +1,3 @@
+❯ convert xc:red xc:white xc:black +append palette.gif
+
+❯ convert DSCF0040.JPG -remap palette.gif result_image.png
